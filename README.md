@@ -17,7 +17,7 @@
 ##### f. Advantages and drawback
 ##### Ans: Drawback
 ##### a.	It supports only javascript.
-##### b.	It runs very well in chrome browser. It don’t have much support on other browsers.
+##### b.	It runs very well in chrome browser. It don’t have much support on other browsers. It doesn't support latest version of Chrome. When I was running this tool, this tool supported till chrome V75 whereas V83 already available.
 ##### c.	If there is an issue with WebdriverJs, the Protractor team should wait for the WebDriverJs team to fix that issue. Protractor is built on webdriverJS. Protractor is not W3C standard.
 ##### d.	You cannot simulate real user (which is possible in selenium using robot class)
 ##### e.	Debugging in Protractor is a nightmare
