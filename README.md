@@ -55,7 +55,7 @@ webdriver-manager update
 
 webdriver-manager start
 
-Create below js file:
+Create below js files:
 
 todo-spec.js:
 
@@ -73,3 +73,5 @@ exports.config = {
 };
 
 Run the test: protractor conf.js
+
+PLease note: There is not package.json and node module exist in the project folder (except above 2 js files) since the proctractor, selenium server and chromedriver installed globally in NPM folder as part of proctractor installation.
